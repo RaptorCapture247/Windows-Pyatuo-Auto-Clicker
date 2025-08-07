@@ -1,5 +1,5 @@
 # Wallet-Transaction-Auto-Clicker
-python script using PyAutoGUI to see and act on user submitted screenshots for confirming or canceling wallet transaction popups.
+python script using PyAutoGUI to see and act on user submitted screenshots for confirming or canceling wallet transaction popups. Built for automation of Pond0x particicpation
 
 ## !!!REMEMBER!!!
 
@@ -8,10 +8,7 @@ python script using PyAutoGUI to see and act on user submitted screenshots for c
 ## IF YOU ARE NOT USING IT FOR AUTO MINING/SWAPPING TURN IT OFF!!!!
 
 
-If you are using Bearly's extension "EzMode" you do not need the secondary auto clicker. You can skips steps 8, 9, and 11.
-
-If you get stuck or need help tag and ping me or <@691287405000523847> in
- https://discord.com/channels/1335026643214929952/1352139613539401760
+If you are using the extension "EzmodeV2" to automate your participation on [Pond0x](https://www.pond0x.com/)} you do not need the secondary auto clicker. You can skips steps 8, 9, and 11.
 
 Python Download Windows
 
@@ -171,7 +168,7 @@ then save as, name it cheat sheet, and put it into pyautogui folder
 
 # Step 8
 
-### Skip if running Ez Mode Extension 
+### Skip if running EzmodeV2 Extension 
 .
 we now need to download an auto clicker if you do not have one.
 We have found that OP Auto Clicker works well and is a free download.
@@ -182,7 +179,7 @@ https://www.opautoclicker.com/
 download and install
 
 # Step 9
-### Skip if running Ez Mode Extension 
+### Skip if running EzmodeV2 Extension 
 .
 once we have an auto clicker installed we are now ready to begin setting up our pond0x swap browser.
 open an internet browser that has your wallet installed as an extension.
@@ -215,7 +212,7 @@ load you wallet with sufficient funds. the way phantom ( i can not speak for oth
 
 
 # Step 11
-### Skip if running Ez Mode Extension 
+### Skip if running EzmodeV2 Extension 
 .
 open your auto clicker we will be specific to op auto clicker here. adjust to fit your specific clicker program.
 set "click repeat" to "repeat until stopped"
