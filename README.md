@@ -1,4 +1,4 @@
-# Wallet-Transaction-Auto-Clicker
+# Wallet Transaction Auto Clicker for Windows
 python script using PyAutoGUI to see and act on user submitted screenshots for confirming or canceling wallet transaction popups. Built for automation of Pond0x particicpation
 
 ## !!!REMEMBER!!!
