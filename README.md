@@ -208,14 +208,14 @@ this step can be performed with any wallet that you are using.
 
 IMPORTANT NOTE: once this script is started it will approve ANY and ALL popups that match your images. If you are not using the auto swapper TURN OFF THE SCRIPT!
 
-![cancel image example](cancel1.png)
-
-
 The next image we are going to grab will be off the slippage tolerance exceeded popup.
 
 in order to force this image we will adjust our slippage to Fixed and a value of 0.01% and use $SOL>USDC.
 
 once we do that we can repeat the above actions. Cancel and retry until you see the image in this message. we will call this image cancel1.png
+
+![cancel image example](cancel1.png)
+
 
 Finally we will now grab the popup for the xminer when we start a mining session.
 
@@ -227,6 +227,9 @@ we will call this "mine.png"
 
 
 Additionally you will encounter other popups that are not listed here. you will want to grab screen shots of them and save them.  the first image you will notice a < symbol in the network fee section. you will want to save this one as "confirm2.png". The other is a no balance found error message, This one will need to be saved as cancel2.png. these are both built into the script and after saving will be handled appropriately.
+
+![confirm2 image example](confirm2.png) ![cancel2 image example](cancel2.png)
+
 
 Any other popups that appear will cause the script to pause, making it easy to grab them. if you encounter one, and after grabbing the image and cropping to look similar to the other examples here you can save it as either:
 (if you want confirm clicked)
@@ -240,12 +243,10 @@ cancel5.png
 
 This gives you a little customization ability to help the script work for you. If you run out of image slots then let us know and we can help you with adding more to the script.
 
-![confirm2 image example](confirm2.png) ![cancel2 image example](cancel2.png)
-
-
 Additional images I have so far.
 
 ![collage of example popups](popup-ideas.png)
+
 
 # Step 7
 
