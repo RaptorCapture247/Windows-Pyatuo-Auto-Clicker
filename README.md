@@ -141,6 +141,10 @@ next we will type in "pip install pillow" and press enter
 once complete move to final install command
 last we will type in "pip install opencv-python" and press enter
 
+pip install pyautogui
+pip install pillow
+pip install opencv-python
+
 depending on your system some of the packages may require an update. if prompted run the command it gives you.
 
 
