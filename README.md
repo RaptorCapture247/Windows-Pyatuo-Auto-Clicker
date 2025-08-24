@@ -106,9 +106,12 @@ https://www.python.org/ftp/python/3.13.2/python-3.13.2-amd64.exe
 
 Check the box that says "Add Python to PATH" (super important!) during install.
 
+Python Dependencies
+```cmd
 pip install pyautogui
 pip install pillow
 pip install opencv-python
+```
 
 .
 Windows PyAutoGUI Error Handling Script
@@ -141,9 +144,12 @@ next we will type in "pip install pillow" and press enter
 once complete move to final install command
 last we will type in "pip install opencv-python" and press enter
 
+Python Dependencies needed
+```cmd
 pip install pyautogui
 pip install pillow
 pip install opencv-python
+```
 
 depending on your system some of the packages may require an update. if prompted run the command it gives you.
 
