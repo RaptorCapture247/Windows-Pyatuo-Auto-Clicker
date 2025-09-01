@@ -97,8 +97,9 @@ python script using PyAutoGUI to see and act on user submitted screenshots for c
 
 ## IF YOU ARE NOT USING IT FOR AUTO MINING/SWAPPING TURN IT OFF!!!!
 
+How-to Setup video-
 
-If you are using the extension "EzmodeV2" to automate your participation on [Pond0x](https://www.pond0x.com/)} you do not need the secondary auto clicker. You can skips steps 8, 9, and 11.
+https://drive.google.com/file/d/1W9J1KcVkCPM846_5HJKcbyVWnI1AJUSZ/view?usp=drive_link
 
 Python Download Windows
 
@@ -113,10 +114,11 @@ pip install pillow
 pip install opencv-python
 ```
 
-.
 Windows PyAutoGUI Error Handling Script
 
 https://x.com/i/grok/share/ShKKlqR7tLQLThpdFn1Ma7Fdn
+
+*If you are using the extension "EzmodeV2" to automate your participation on [Pond0x](https://www.pond0x.com/) you do not need the secondary auto clicker. You can skips steps 8, 9, and 11.*
 
 # Step 1
 
@@ -280,7 +282,10 @@ then save as, name it cheat sheet, and put it into pyautogui folder
 # Step 8
 
 ### Skip if running EzmodeV2 Extension 
-.
+
+How to video for OP Auto Clicker setup-
+https://drive.google.com/file/d/1QcMYlNmk8JVyDZseL1p6mw1I3eNE60Tx/view?usp=sharing
+
 we now need to download an auto clicker if you do not have one.
 We have found that OP Auto Clicker works well and is a free download.
 
@@ -291,7 +296,7 @@ download and install
 
 # Step 9
 ### Skip if running EzmodeV2 Extension 
-.
+
 once we have an auto clicker installed we are now ready to begin setting up our pond0x swap browser.
 open an internet browser that has your wallet installed as an extension.
 travel to pond0x.com/swap.
