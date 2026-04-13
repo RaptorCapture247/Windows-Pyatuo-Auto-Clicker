@@ -3,6 +3,8 @@ Use this script for automating clicks on a Windows PC. Script is setup for walle
 
 Images in this repository will not work for your setup and are intended for example and reference purposes only. You must take your own screenshots using your main monitor (must be monitor 1 in multi monitor setups).
 
+*Note* These auto clickers were originally designed for and thus reference Pond0x specifics. They do not rely on Pond0x content or images and can be adapted for use in a variety of applications.
+
 # PyAutoGUI Pond0x Automation Script
 
 ## Overview
